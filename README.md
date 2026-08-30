@@ -1,156 +1,107 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=Syed%20Hassaan%20Bukhari&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Engineer%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Builder&descAlignY=52&descSize=17&descColor=A78BFA"/>
+# Modern Interior Design Themes & Aesthetics 🏡✨
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=22&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Turning+Data+Into+Decisions%2C+One+Model+at+a+Time;Machine+Learning+%7C+Deep+Learning+%7C+Python+%7C+FastAPI;On+a+Mission%3A+Stanford+%E2%86%92+Harvard+%E2%86%92+Global+Tech+CEO" />
+### *Curating spaces where form, function, and feeling live in harmony.*
 
-<br>
-
-<a href="https://www.linkedin.com/in/syed-hassaan-bukhari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/SyedHassaan09"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
-<a href="https://www.instagram.com/hassaan_bhai.18"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Syed-Hassaan-Bukhari&style=flat-square&color=302B63&label=Profile+Views"/>
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
+[![Stars](https://img.shields.io/github/stars/your-username/your-repo?style=for-the-badge&color=gold)](../../stargazers)
+[![Design Stack](https://img.shields.io/badge/Design%20Stack-Figma%20%7C%20SketchUp%20%7C%20AutoCAD-8A2BE2?style=for-the-badge)](#)
 
 </div>
 
-<br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302B63,100:0F0C29&height=2&section=header&width=100%"/>
+## 📖 Overview & Introduction
 
-<br>
+Modern interior design is no longer just about furniture placement — it's a language of **light, texture, proportion, and emotion**. This repository is a curated, living reference of contemporary interior design themes, built for **designers, architects, developers building design-tech tools, and enthusiasts** who want a structured, visual understanding of how today's most influential aesthetics come together.
 
-## 🧑‍💻 About Me
+Whether you're prototyping a smart-home UI, planning a real renovation, or just exploring design theory, this repo breaks down each theme into its **characteristics, color language, and ideal application**.
 
-<table>
-<tr>
-<td width="60%" valign="top">
+---
 
-I'm **Syed Hassaan Bukhari**, an AI & Data Science student based in **Karachi, Pakistan**, focused on building machine learning systems that actually solve problems — not just notebooks that run once and get forgotten.
+## 🎨 Featured Interior Design Themes
 
-- 🔭 Currently working on ML classification & LLM fine-tuning tasks through hands-on internship projects
-- 🌱 Deepening my skills in **Deep Learning, MLOps, and API-driven ML deployment (FastAPI)**
-- 🎬 Off-screen, I direct my energy into cinematic videography, VFX, and high-performance PC builds
-- 🏋️ Balance the grind with hybrid fitness training and outdoor exploration
-- 🎯 Long-term trajectory: **Stanford (CS) → Harvard (MBA) → Global Tech CEO**
-- 💬 Ask me about: Python, ML pipelines, data cleaning, or how to actually finish a side project
+| Theme Name | Core Characteristics | Color Palette | Best For (Spaces) |
+|---|---|---|---|
+| **Minimalist / Japandi** 🍵 | Simplicity, natural light, decluttered surfaces, organic materials, function-first layouts | ⬜ `#F5F1EA` · 🟫 `#C4A484` · ⬛ `#2B2B2B` | Living rooms, home offices, studio apartments |
+| **Industrial Modern** 🏭 | Exposed brick, raw concrete, blackened metal, visible ductwork, weathered wood | 🧱 `#8C6B52` · ⬛ `#1C1C1C` · ⚙️ `#6E6E6E` | Loft apartments, cafés, open-plan kitchens |
+| **Biophilic Design** 🌿 | Indoor plants, natural airflow, living walls, earthy tones, organic curves | 🟢 `#7C9070` · 🟤 `#A9856B` · ⚪ `#EDE6DA` | Sunrooms, wellness spaces, co-working hubs |
+| **Mid-Century Modern** 🛋️ | Retro functionality, tapered legs, clean geometric lines, bold accent pops | 🟠 `#D9822B` · 🟡 `#E0B84B` · 🌰 `#5C4033` | Living rooms, dining areas, statement corners |
+| **Contemporary Luxury** 💎 | Sleek finishes, marble surfaces, smart/ambient lighting, high-end minimalism | ⚫ `#181818` · ⚪ `#E8E6E1` · 🥇 `#C9A86A` | Penthouses, master suites, formal lounges |
 
-</td>
-<td width="40%" valign="top" align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Syed-Hassaan-Bukhari&theme=tokyonight&hide_border=true&layout=compact" width="100%" onerror="this.style.display='none'"/>
+## 🧩 Key Design Elements
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%" style="border-radius:12px"/>
+### 💡 Lighting Strategies
+- [ ] **Ambient Lighting** — layered ceiling/cove lighting for overall room illumination
+- [ ] **Task Lighting** — focused fixtures for reading nooks, kitchen counters, workspaces
+- [ ] **Accent Lighting** — wall washers, spotlights, and LED strips to highlight art or texture
 
-</td>
-</tr>
-</table>
+### 🪑 Furniture Selection & Ergonomics
+- [ ] Scale furniture to room proportions — avoid overcrowding open layouts
+- [ ] Prioritize ergonomic seating with proper lumbar and armrest support
+- [ ] Mix multi-functional pieces (storage ottomans, modular sofas) for flexibility
 
-<br>
+### 🧱 Material Palette & Textures
+- [ ] Balance hard surfaces (stone, metal, glass) with soft textiles (linen, boucle, wool)
+- [ ] Introduce at least one natural material (wood, rattan, stone) per room
+- [ ] Layer textures — matte + gloss, rough + smooth — to avoid visual flatness
 
-## 🛠️ Tech Stack
+---
 
-<table width="100%">
-<tr>
-<td align="center" width="25%"><b>Languages</b></td>
-<td align="center" width="25%"><b>ML / AI</b></td>
-<td align="center" width="25%"><b>Frameworks</b></td>
-<td align="center" width="25%"><b>Tools</b></td>
-</tr>
-<tr>
-<td align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-</td>
-<td align="center">
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-</td>
-<td align="center">
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-</td>
-<td align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🚀 Featured Projects
+## 🖼️ Visual Gallery / Layout Mockups
 
 <div align="center">
 
-<a href="https://github.com/Syed-Hassaan-Bukhari/Developer-s-Hub-Corporation-Internship-Task">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Syed-Hassaan-Bukhari&repo=Developer-s-Hub-Corporation-Internship-Task&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-<a href="https://github.com/Syed-Hassaan-Bukhari/DevelopersHub-Advanced-Internship-Tasks">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Syed-Hassaan-Bukhari&repo=DevelopersHub-Advanced-Internship-Tasks&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-<a href="https://github.com/Syed-Hassaan-Bukhari/SMIT-DATA-CLEANING-TASKS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Syed-Hassaan-Bukhari&repo=SMIT-DATA-CLEANING-TASKS&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-<a href="https://github.com/Syed-Hassaan-Bukhari/Saylani-Mass-IT-Training-Task">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Syed-Hassaan-Bukhari&repo=Saylani-Mass-IT-Training-Task&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
+| Minimalist / Japandi | Industrial Modern |
+|:---:|:---:|
+| ![Minimalist Japandi Mockup](./assets/images/minimalist-japandi.jpg) | ![Industrial Modern Mockup](./assets/images/industrial-modern.jpg) |
+
+| Biophilic Design | Mid-Century Modern |
+|:---:|:---:|
+| ![Biophilic Design Mockup](./assets/images/biophilic-design.jpg) | ![Mid-Century Modern Mockup](./assets/images/mid-century-modern.jpg) |
+
+| Contemporary Luxury |
+|:---:|
+| ![Contemporary Luxury Mockup](./assets/images/contemporary-luxury.jpg) |
 
 </div>
 
-<br>
+> 📌 *Replace the placeholder paths above with your own renders, photography, or GIF walkthroughs inside `./assets/images/`.*
 
-## 📊 GitHub Analytics
+---
 
-<div align="center">
+## 🤝 How to Contribute
 
-<img src="https://github-readme-stats.vercel.app/api?username=Syed-Hassaan-Bukhari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-Hassaan-Bukhari&theme=tokyonight&hide_border=true" width="49%"/>
+We welcome new themes, mockups, and refinements from the community.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Hassaan-Bukhari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=Syed-Hassaan-Bukhari&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=10&margin-h=10" width="49%"/>
+1. **Fork** this repository
+2. **Create a branch** for your addition
+   ```bash
+   git checkout -b theme/your-theme-name
+   ```
+3. **Add your content** — follow the existing table format for consistency
+4. **Include visuals** in `./assets/images/` with descriptive filenames
+5. **Submit a Pull Request** with a clear description of the theme or change
+6. Tag your PR with `design-theme`, `documentation`, or `enhancement`
 
-</div>
+For larger proposals (new sections, restructuring), please open an **Issue** first to discuss.
 
-<br>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syed-Hassaan-Bukhari&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/Syed-Hassaan-Bukhari/Syed-Hassaan-Bukhari/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-</div>
-
-<br>
-
-## 🎯 Currently
-
-```text
-📚 Learning     → Deep Learning architectures, LLM fine-tuning, MLOps
-🛠️ Building     → ML classification pipelines & internship projects
-🤝 Open to      → Collaboration, internships, and AI/ML discussions
-📫 Reach me     → LinkedIn / X / Instagram (linked above)
-```
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=150&section=footer"/>
+---
 
 <div align="center">
-<sub>Thanks for stopping by — let's build something great. 🚀</sub>
+
+---
+
+📄 Licensed under [MIT License](LICENSE)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
+**⭐ If this repository helped you, consider giving it a star!**
+
 </div>
