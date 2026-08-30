@@ -377,7 +377,7 @@ Python Jupyter Machine Learning
 <img src="https://img.shields.io/badge/EMAIL-aiandmldeveloper22%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/syed-hassaan-bukhari-0b72b8424/">
+<a href="https://www.linkedin.com/in/syed-hassaan-bukhari/">
 <img src="https://img.shields.io/badge/LINKEDIN-SYED%20HASSAAN%20BUKHARI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
