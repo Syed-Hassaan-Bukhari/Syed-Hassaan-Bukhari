@@ -140,7 +140,7 @@ I believe in **building over consuming** — fewer courses collected, more model
 
 ## ⟢ LIVE TELEMETRY — GITHUB ANALYTICS
 
-<img src="https://github-readme-stats.vercel.app/api?username=Syed-Hassaan-Bukhari&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=030712&title_color=67E8F9&text_color=C4B5FD&icon_color=8B5CF6&rank_icon=github" width="49%"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-Hassaan-Bukhari&hide_border=true&background=030712&ring=8B5CF6&fire=EC4899&currStreakLabel=67E8F9&sideLabels=A78BFA&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%"/>
 
 </div>
