@@ -1042,3 +1042,5 @@ IMPACT
 <!--                  SYED HASSAAN BUKHARI                     -->
 <!--                    PROFILE README                          -->
 <!-- ========================================================= -->
+
+<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,35:071A52,70:25105E,100:00D9FF&height=150&section=footer" width="100%" /> </div> <!-- ========================================================= --> <!-- END OF PROFILE --> <!-- ========================================================= -->
