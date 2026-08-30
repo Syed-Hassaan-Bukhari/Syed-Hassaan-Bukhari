@@ -1,152 +1,125 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A1A1A,100:0D0D0D&height=250&section=header&text=SYED%20HASSAAN%20BUKHARI&fontSize=44&fontColor=76B900&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Compute-Grade%20Problem%20Solver&descAlignY=55&descSize=16&descColor=FFFFFF"/>
+<img src="https://avatars.githubusercontent.com/u/282169409?v=4" width="110" style="border-radius:50%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=76B900&center=true&vCenter=true&width=880&lines=Compiling+intelligence+from+raw+data...;Machine+Learning+%7C+Deep+Learning+%7C+Python+%7C+FastAPI;Trajectory%3A+Stanford+%E2%86%92+Harvard+%E2%86%92+Global+Tech+CEO" />
+# Syed Hassaan Bukhari
+### `@Syed-Hassaan-Bukhari`
 
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-76B900?style=for-the-badge&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/LOCATION-KARACHI%2C%20PK-76B900?style=for-the-badge&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-76B900?style=for-the-badge&labelColor=0D0D0D"/>
-<img src="https://komarev.com/ghpvc/?username=Syed-Hassaan-Bukhari&style=for-the-badge&color=1A1A1A&labelColor=0D0D0D&label=VIEWS"/>
+*AI & Machine Learning Engineer — Karachi, Pakistan 🇵🇰*
 
 </div>
 
 <br>
-
-## 🖥️ SPEC SHEET
-
-```
-┌──────────────────────────────────────────────────────────┐
-│  MODEL          Syed Hassaan Bukhari — AI/ML Engine v1.0  │
-│  ARCHITECTURE   Machine Learning + Deep Learning + Data Sci│
-│  BASE LOCATION  Karachi, Pakistan 🇵🇰                       │
-│  CORE STACK     Python · FastAPI · Pandas · NumPy          │
-│  ACCEL SUPPORT  TensorFlow · PyTorch · scikit-learn         │
-│  DRIVER MODE    Build → Break → Debug → Deploy              │
-│  THERMAL LIMIT  Fitness-cooled, fully overclockable          │
-│  ROADMAP        Stanford (CS) → Harvard (MBA) → Global CEO   │
-└──────────────────────────────────────────────────────────┘
-```
-
-<br>
-
-## ⚙️ CORE COMPETENCIES
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,pandas,numpy,fastapi,jupyter,git,github,vscode,linux&theme=dark"/>
-
-</div>
-
-<table width="100%">
+<table>
 <tr>
-<td width="33%" valign="top" align="center">
+<td align="center" width="140">
 
-**🧠 Machine Learning**
-- Supervised & Unsupervised Models
-- Feature Engineering & Selection
-- Model Evaluation & Tuning
+**📦 REPOS**
+### 6
 
 </td>
-<td width="33%" valign="top" align="center">
+<td align="center" width="140">
 
-**🔬 Deep Learning**
-- Neural Network Architectures
-- LLM Fine-Tuning (in progress)
-- Computer Vision Fundamentals
+**⭐ TOTAL STARS**
+### 10
 
 </td>
-<td width="33%" valign="top" align="center">
+<td align="center" width="140">
 
-**🚀 Deployment**
-- FastAPI Model Serving
-- Data Pipeline Design
-- Version Control (Git/GitHub)
+**👥 FOLLOWERS**
+### 2
+
+</td>
+<td align="center" width="140">
+
+**🎯 FOCUS**
+### AI / ML
 
 </td>
 </tr>
 </table>
 
-<br>
-
-## 📈 BENCHMARK RESULTS
-
-<div align="center">
-
-| Metric | Score |
-|---|---|
-| Python & Data Handling | ████████████████░░░░ 80% |
-| Machine Learning Fundamentals | ██████████████░░░░░░ 70% |
-| Deep Learning / Neural Nets | ███████████░░░░░░░░░ 55% |
-| API & Deployment (FastAPI) | █████████████░░░░░░░ 65% |
-| Consistency & Shipping | ████████████████░░░░ 80% |
-
 </div>
 
-<br>
+---
 
-## 🧪 ACTIVE WORKLOADS
-
-<div align="center">
-
-<a href="https://github.com/Syed-Hassaan-Bukhari/Developer-s-Hub-Corporation-Internship-Task">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Syed-Hassaan-Bukhari&repo=Developer-s-Hub-Corporation-Internship-Task&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=76B900&text_color=e6e6e6" />
-</a>
-<a href="https://github.com/Syed-Hassaan-Bukhari/DevelopersHub-Advanced-Internship-Tasks">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Syed-Hassaan-Bukhari&repo=DevelopersHub-Advanced-Internship-Tasks&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=76B900&text_color=e6e6e6" />
-</a>
-<a href="https://github.com/Syed-Hassaan-Bukhari/SMIT-DATA-CLEANING-TASKS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Syed-Hassaan-Bukhari&repo=SMIT-DATA-CLEANING-TASKS&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=76B900&text_color=e6e6e6" />
-</a>
-<a href="https://github.com/Syed-Hassaan-Bukhari/Saylani-Mass-IT-Training-Task">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Syed-Hassaan-Bukhari&repo=Saylani-Mass-IT-Training-Task&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=76B900&text_color=e6e6e6" />
-</a>
-
-</div>
-
-<br>
-
-## 📊 SYSTEM MONITOR
+## 📊 Contributions
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Syed-Hassaan-Bukhari&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=76B900&icon_color=76B900&text_color=e6e6e6&border_color=1A1A1A&hide_border=false&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-Hassaan-Bukhari&theme=dark&background=0D0D0D&stroke=1A1A1A&ring=76B900&fire=76B900&currStreakLabel=76B900" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syed-Hassaan-Bukhari&theme=github-compact&hide_border=true&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&area=true" width="95%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syed-Hassaan-Bukhari&theme=github-compact&bg_color=0D0D0D&color=76B900&line=76B900&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
-<br>
-
-## 🔋 CONTRIBUTION LOAD
-
-<div align="center">
+<br><br>
 
 <img src="https://raw.githubusercontent.com/Syed-Hassaan-Bukhari/Syed-Hassaan-Bukhari/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
 </div>
 
-<br>
+---
 
-## 📡 CONNECT / DEPLOY REQUEST
+## 🧬 Core Technologies
+
+<table width="100%">
+<tr><td width="30%"><b>🐍 Python</b></td><td width="55%">
+
+![](https://progress-bar.xyz/85/?width=400&color=39D353&suffix=%25)
+
+</td></tr>
+<tr><td><b>🔥 TensorFlow / PyTorch</b></td><td>
+
+![](https://progress-bar.xyz/70/?width=400&color=FF6F00&suffix=%25)
+
+</td></tr>
+<tr><td><b>🐼 Pandas / NumPy</b></td><td>
+
+![](https://progress-bar.xyz/80/?width=400&color=150458&suffix=%25)
+
+</td></tr>
+<tr><td><b>⚡ FastAPI</b></td><td>
+
+![](https://progress-bar.xyz/65/?width=400&color=009688&suffix=%25)
+
+</td></tr>
+<tr><td><b>🔧 Git / GitHub</b></td><td>
+
+![](https://progress-bar.xyz/90/?width=400&color=F05032&suffix=%25)
+
+</td></tr>
+</table>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/syed-hassaan-bukhari/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=76B900"/></a>
-<a href="https://x.com/SyedHassaan09"><img src="https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=76B900"/></a>
-<a href="https://www.instagram.com/hassaan_bhai.18"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=76B900"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Hassaan-Bukhari&layout=donut&theme=github-dark&hide_border=true&bg_color=0D1117" width="45%"/>
 
 </div>
 
-<br>
+---
+
+## 🏆 Notable Projects
+
+| Repository | Description | Stars |
+|---|---|:---:|
+| [Developer-s-Hub-Corporation-Internship-Task](https://github.com/Syed-Hassaan-Bukhari/Developer-s-Hub-Corporation-Internship-Task) | AI/ML classification workflows & LLM fine-tuning | ⭐ 1 |
+| [DevelopersHub-Advanced-Internship-Tasks](https://github.com/Syed-Hassaan-Bukhari/DevelopersHub-Advanced-Internship-Tasks) | Advanced internship task set | ⭐ 1 |
+| [SMIT-DATA-CLEANING-TASKS](https://github.com/Syed-Hassaan-Bukhari/SMIT-DATA-CLEANING-TASKS) | Data cleaning practice — SMIT Zamzama | ⭐ 1 |
+| [Saylani-Mass-IT-Training-Task](https://github.com/Syed-Hassaan-Bukhari/Saylani-Mass-IT-Training-Task) | Prediction & dataset forecasting task | ⭐ 1 |
+| [THE-AI-AND-DATA-SCIENCE-BATCH-15](https://github.com/Syed-Hassaan-Bukhari/THE-AI-AND-DATA-SCIENCE-BATCH-15) | ML coursework — SMIT Batch 15 | ⭐ 1 |
+
+---
+
+## 🔗 Connect
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A1A1A,100:0D0D0D&height=150&section=footer"/>
+<a href="https://www.linkedin.com/in/syed-hassaan-bukhari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/SyedHassaan09"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://www.instagram.com/hassaan_bhai.18"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-<sub>⚡ Powered by curiosity. Compiled in Karachi. Ready to deploy anywhere. 🇵🇰</sub>
+</div>
 
+<div align="center">
+<sub>🎯 Trajectory: Stanford (CS) → Harvard (MBA) → Global Tech CEO</sub>
 </div>
