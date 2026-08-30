@@ -252,13 +252,9 @@ The goal is to understand the complete stack, build useful technology, solve rea
 
 # 📊 GITHUB ANALYTICS
 
-<img src="https://github-readme-stats.vercel.app/api?username=Syed-Hassaan-Bukhari&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=050816&title_color=00E5FF&text_color=E6EDF3&icon_color=7C3AED" height="180" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Hassaan-Bukhari&layout=compact&hide_border=true&langs_count=8&bg_color=050816&title_color=00E5FF&text_color=E6EDF3" height="180" />
 
 <br><br>
-
-<img src="https://streak-stats.demolab.com?user=Syed-Hassaan-Bukhari&hide_border=true&background=050816&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=E6EDF3&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 <br><br>
 
@@ -270,17 +266,6 @@ The goal is to understand the complete stack, build useful technology, solve rea
 
 <div align="center">
 
-# 🐍 CONTRIBUTION SNAKE
-
-<img src="https://raw.githubusercontent.com/Syed-Hassaan-Bukhari/Syed-Hassaan-Bukhari/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
-
-### `KEEP THE STREAK ALIVE`
-
-</div>
-
----
-
-<div align="center">
 
 # 🌐 CONNECT
 
