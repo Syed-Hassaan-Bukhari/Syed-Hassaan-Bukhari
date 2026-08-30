@@ -371,7 +371,7 @@ Python Jupyter Machine Learning
 
 </div>
 
-```
+---
 
 # CONNECT
 
