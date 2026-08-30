@@ -78,21 +78,39 @@ I prefer **building over consuming**. Instead of collecting endless courses, Iâ€
 
 <div align="center">
 
-### PROGRAMMING
+### PROGRAMMING LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=python,cpp,r,js&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,r,js,ts&theme=dark"/>
 
 <br><br>
 
-### DATA & MACHINE LEARNING
+### DATA ANALYSIS & VISUALIZATION
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,matplotlib&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib&theme=dark"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<br><br>
+
+### MACHINE LEARNING
+
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark"/>
+<img src="https://img.shields.io/badge/XGBoost-0E7C61?style=for-the-badge&logo=xgboost&logoColor=white"/>
 
 <br><br>
 
 ### DEEP LEARNING
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,opencv&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras&theme=dark"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+
+<br><br>
+
+### COMPUTER VISION
+
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark"/>
+<img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white"/>
 
 <br><br>
 
@@ -101,41 +119,42 @@ I prefer **building over consuming**. Instead of collecting endless courses, Iâ€
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+
+<br><br>
+
+### MLOPS & DEPLOYMENT
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,fastapi,flask&theme=dark"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+
+<br><br>
+
+### CLOUD PLATFORMS
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark"/>
+
+<br><br>
+
+### DATABASES
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&theme=dark"/>
 
 <br><br>
 
 ### DEVELOPMENT ENVIRONMENT
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,anaconda,docker&theme=dark"/>
-
-<br><br>
-
-### DEPLOYMENT & APIs
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,anaconda,linux,postman&theme=dark"/>
 
 <br><br>
 
 ### AI AUTOMATION
 
 <img src="https://img.shields.io/badge/n8n-AI%20AUTOMATION-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white"/>
 
 </div>
 
-
-
-
-### DEVELOPMENT ENVIRONMENT
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark"/>
-
-<br><br>
-
-### AI AUTOMATION
-
-<img src="https://img.shields.io/badge/n8n-AI%20AUTOMATION-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-
-</div>
 
 
 
