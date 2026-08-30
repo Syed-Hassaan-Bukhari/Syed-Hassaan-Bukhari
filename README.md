@@ -1,28 +1,33 @@
-
 ::: {align="center"}
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:06144A,45:101B67,70:312E81,100:7C3AED&height=290&section=header&text=SYED%20HASSAAN%20BUKHARI&fontSize=43&fontColor=FFFFFF&animation=fadeIn&fontAlignY=31&desc=AI%20%26%20MACHINE%20LEARNING%20ENTHUSIAST%20%7C%20PYTHON%20DEVELOPER%20%7C%20FUTURE%20FOUNDER&descAlignY=55&descSize=16&descColor=67E8F9" width="100%"/>`{=html}
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,18:06144A,42:101B67,70:312E81,100:7C3AED&height=300&section=header&text=SYED%20HASSAAN%20BUKHARI&fontSize=43&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=AI%20%26%20MACHINE%20LEARNING%20%7C%20PYTHON%20DEVELOPER%20%7C%20FUTURE%20FOUNDER&descAlignY=54&descSize=16&descColor=67E8F9" width="100%" alt="Syed Hassaan Bukhari AI ML header"/>`{=html}
 
-`<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&duration=2400&pause=700&color=67E8F9&center=true&vCenter=true&width=760&height=55&lines=%3E%3E%20Turning%20Code%20into%20Intelligent%20Systems...;%3E%3E%20Training%20Models%20%7C%20Building%20AI%20Systems;%3E%3E%20Learning%20in%20Public%20%7C%20Building%20in%20Public" alt="Typing animation"/>`{=html}
-
-`<br>`{=html}
-
-`<img src="https://img.shields.io/badge/Python-0B173D?style=for-the-badge&logo=python&logoColor=FFD43B"/>`{=html}
-`<img src="https://img.shields.io/badge/Machine%20Learning-0B173D?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>`{=html}
-`<img src="https://img.shields.io/badge/Deep%20Learning-0B173D?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>`{=html}
-`<img src="https://img.shields.io/badge/Data%20Science-0B173D?style=for-the-badge&logo=pandas&logoColor=150458"/>`{=html}
-`<img src="https://img.shields.io/badge/AI%20Automation-0B173D?style=for-the-badge&logo=n8n&logoColor=EA4B71"/>`{=html}
+`<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=67E8F9&center=true&vCenter=true&width=850&height=55&lines=%3E%3E%20Turning%20Code%20into%20Intelligent%20Systems...;%3E%3E%20Training%20Models%20%7C%20Building%20AI%20Systems;%3E%3E%20Learning%20in%20Public%20%7C%20Building%20in%20Public" alt="AI ML typing animation"/>`{=html}
 
 `<br>`{=html}
 
-`<img src="https://img.shields.io/badge/Pakistan-0B173D?style=for-the-badge&logo=googlemaps&logoColor=22C55E"/>`{=html}
-`<img src="https://img.shields.io/badge/Student-0B173D?style=for-the-badge&logo=academia&logoColor=67E8F9"/>`{=html}
-`<img src="https://img.shields.io/badge/Open%20to%20Opportunities-0B173D?style=for-the-badge&logo=target&logoColor=22C55E"/>`{=html}
-`<img src="https://img.shields.io/badge/Building%20the%20Future-0B173D?style=for-the-badge&logo=rocket&logoColor=A78BFA"/>`{=html}
+`<img src="https://img.shields.io/badge/Python-07143D?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>`{=html}
+`<img src="https://img.shields.io/badge/Machine%20Learning-07143D?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning"/>`{=html}
+`<img src="https://img.shields.io/badge/Deep%20Learning-07143D?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="Deep Learning"/>`{=html}
+`<img src="https://img.shields.io/badge/Data%20Science-07143D?style=for-the-badge&logo=pandas&logoColor=67E8F9" alt="Data Science"/>`{=html}
+`<img src="https://img.shields.io/badge/AI%20Automation-07143D?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="AI Automation"/>`{=html}
+
+`<br>`{=html}
+
+`<img src="https://img.shields.io/badge/Pakistan-07143D?style=for-the-badge&logo=googlemaps&logoColor=22C55E" alt="Pakistan"/>`{=html}
+`<img src="https://img.shields.io/badge/Student-07143D?style=for-the-badge&logo=academia&logoColor=67E8F9" alt="Student"/>`{=html}
+`<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-07143D?style=for-the-badge&logo=databricks&logoColor=FF3621" alt="AI and Data Science"/>`{=html}
+`<img src="https://img.shields.io/badge/Building%20the%20Future-07143D?style=for-the-badge&logo=rocket&logoColor=A78BFA" alt="Building the future"/>`{=html}
+
+`<br>`{=html}`<br>`{=html}
+
+`<a href="https://github.com/Syed-Hassaan-Bukhari">`{=html}
+`<img src="https://komarev.com/ghpvc/?username=Syed-Hassaan-Bukhari&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views"/>`{=html}
+`</a>`{=html}
 :::
 
 ------------------------------------------------------------------------
 
-## 🧠 About Me
+## 🧠 ABOUT ME
 
 ```{=html}
 <table>
@@ -31,64 +36,74 @@
 <tr>
 ```
 ```{=html}
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 ```
-I'm **Syed Hassaan Bukhari**, an AI/ML learner and Python developer
-focused on building practical intelligent systems.
+**I'm Syed Hassaan Bukhari**, an aspiring **AI/ML Engineer and Python
+Developer** focused on understanding intelligent systems and turning
+that knowledge into real projects.
 
-I'm currently strengthening the fundamentals that sit underneath modern
-AI: Python, mathematics, statistics, data analysis, machine learning,
-and model evaluation.
+I am currently learning **AI and Data Science**, with my present work
+centered around Python, mathematics, statistics, data analysis,
+regression, and supervised machine learning.
 
-**Currently Learning** - Regression - Supervised Machine Learning - Deep
-Learning foundations
+My learning path is:
 
-**Next Goals** - Neural Networks - NLP & LLMs - AI Agents - Real-world
-AI projects
+**Python → Mathematics → Machine Learning → Deep Learning → NLP → LLMs →
+AI Agents → Production AI**
 
-**Long-Term Vision**
+I prefer **building over consuming**. I want to write code, experiment
+with models, understand failures, debug them, and turn concepts into
+working systems.
 
-Build useful AI products, become a strong AI/ML engineer, and eventually
-build technology companies around real-world problems.
+### Current Focus
 
-**Mindset**
+-   Regression and supervised learning
+-   Data analysis and preprocessing
+-   Machine learning experiments
+-   Python development
+-   AI automation
+-   Building a strong AI/ML portfolio
 
-> Build \> Consume\
-> Consistency \> Motivation\
-> Fundamentals \> Hype
+### Long-Term Mission
+
+Build technology that solves real problems, create useful AI products,
+and eventually build a technology company.
 
 ```{=html}
 </td>
 ```
 ```{=html}
-<td width="42%" valign="top">
+<td width="40%" valign="top">
 ```
-### ⚡ Quick Facts
+### ⚡ QUICK FACTS
 
-  ---------------- -----------------------
-  **Code**         Python
-  **Domain**       AI / Machine Learning
-  **Focus**        Intelligent Systems
-  **Work Style**   Project Based
-  **Level**        Building Foundations
-  **Location**     🇵🇰 Pakistan
-  ---------------- -----------------------
+  ---------------------- ----------------------------------
+  **Core Language**      Python
+  **Primary Domain**     AI / Machine Learning
+  **Current Focus**      Regression + Supervised Learning
+  **Learning Mode**      Self-Directed
+  **Development Mode**   Project-Based
+  **Location**           🇵🇰 Karachi, Pakistan
+  **Current Stage**      Building Foundations
+  ---------------------- ----------------------------------
 
 ### `hassaan@ai-lab:~$`
 
 ``` text
-$ goals
+$ system.status
 
-▶ Master AI / ML        [IN PROGRESS]
-▶ Build Real Projects   [ACTIVE]
-▶ Work on AI Systems    [NEXT]
-▶ Become AI Engineer    [TARGET]
-▶ Build Tech Company    [LONG TERM]
+AI/ML CORE       [ ONLINE ]
+PYTHON           [ ONLINE ]
+LEARNING         [ ACTIVE ]
+BUILDING         [ ACTIVE ]
+FUTURE MODE      [ INITIALIZED ]
 
-$ status
-> Keep learning...
-> Keep building...
-> Keep improving...
+$ mission
+> Learn
+> Build
+> Deploy
+> Improve
+> Repeat
 ```
 
 ```{=html}
@@ -103,7 +118,7 @@ $ status
 
 ------------------------------------------------------------------------
 
-## 🧩 AI / ML Tech Stack & Tools
+## 🧬 AI / ML STACK
 
 ::: {align="center"}
 ```{=html}
@@ -113,11 +128,11 @@ $ status
 <tr>
 ```
 ```{=html}
-<td align="center" width="16%">
+<td align="center">
 ```
-**Programming**
+**PROGRAMMING**
 
-`<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/>`{=html}
+`<img src="https://skillicons.dev/icons?i=python&theme=dark" width="52" alt="Python"/>`{=html}
 
 Python
 
@@ -125,25 +140,23 @@ Python
 </td>
 ```
 ```{=html}
-<td align="center" width="20%">
+<td align="center">
 ```
-**Data Science**
+**DATA SCIENCE**
 
-`<img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="42"/>`{=html}
-`<img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="42"/>`{=html}
-`<img src="https://skillicons.dev/icons?i=matplotlib&theme=dark" width="42"/>`{=html}
+`<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" height="52" alt="NumPy Pandas"/>`{=html}
 
-NumPy • Pandas • Matplotlib
+NumPy • Pandas
 
 ```{=html}
 </td>
 ```
 ```{=html}
-<td align="center" width="18%">
+<td align="center">
 ```
-**Machine Learning**
+**MACHINE LEARNING**
 
-`<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48"/>`{=html}
+`<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="52" alt="Scikit Learn"/>`{=html}
 
 Scikit-Learn
 
@@ -151,11 +164,11 @@ Scikit-Learn
 </td>
 ```
 ```{=html}
-<td align="center" width="18%">
+<td align="center">
 ```
-**Deep Learning**
+**DEEP LEARNING**
 
-`<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" width="86"/>`{=html}
+`<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="52" alt="PyTorch TensorFlow"/>`{=html}
 
 PyTorch • TensorFlow
 
@@ -163,11 +176,11 @@ PyTorch • TensorFlow
 </td>
 ```
 ```{=html}
-<td align="center" width="16%">
+<td align="center">
 ```
-**Environment**
+**ENVIRONMENT**
 
-`<img src="https://skillicons.dev/icons?i=jupyter,vscode&theme=dark" width="86"/>`{=html}
+`<img src="https://skillicons.dev/icons?i=jupyter,vscode&theme=dark" height="52" alt="Jupyter VS Code"/>`{=html}
 
 Jupyter • VS Code
 
@@ -175,11 +188,11 @@ Jupyter • VS Code
 </td>
 ```
 ```{=html}
-<td align="center" width="12%">
+<td align="center">
 ```
-**Automation**
+**AUTOMATION**
 
-`<img src="https://img.shields.io/badge/n8n-0B173D?style=for-the-badge&logo=n8n&logoColor=EA4B71" width="62"/>`{=html}
+`<img src="https://img.shields.io/badge/n8n-07143D?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n"/>`{=html}
 
 n8n
 
@@ -196,386 +209,271 @@ n8n
 
 ------------------------------------------------------------------------
 
-## 🚀 AI / ML Learning Roadmap
-
-```{=html}
-<table>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-🟢 Python Foundations
-```{=html}
-</td>
-```
-```{=html}
-<td align="right">
-```
-`<b>`{=html}100%`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-🟢 Math & Statistics
-```{=html}
-</td>
-```
-```{=html}
-<td align="right">
-```
-`<b>`{=html}100%`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-🔵 Regression & Supervised Learning
-```{=html}
-</td>
-```
-```{=html}
-<td align="right">
-```
-`<b>`{=html}70%`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-⚪ Unsupervised Learning
-```{=html}
-</td>
-```
-```{=html}
-<td align="right">
-```
-`<b>`{=html}0%`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-⚪ Deep Learning & Neural Networks
-```{=html}
-</td>
-```
-```{=html}
-<td align="right">
-```
-`<b>`{=html}0%`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-⚪ Computer Vision
-```{=html}
-</td>
-```
-```{=html}
-<td align="right">
-```
-`<b>`{=html}0%`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-⚪ NLP & Large Language Models
-```{=html}
-</td>
-```
-```{=html}
-<td align="right">
-```
-`<b>`{=html}0%`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-⚪ AI Agents
-```{=html}
-</td>
-```
-```{=html}
-<td align="right">
-```
-`<b>`{=html}0%`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-⚪ MLOps & Deployment
-```{=html}
-</td>
-```
-```{=html}
-<td align="right">
-```
-`<b>`{=html}0%`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-⚪ Real-world AI Products
-```{=html}
-</td>
-```
-```{=html}
-<td align="right">
-```
-`<b>`{=html}0%`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-</table>
-```
-
-------------------------------------------------------------------------
-
-## 🎯 My Focus Areas
+## 🔬 MACHINE LEARNING PIPELINE
 
 ::: {align="center"}
-`<img src="https://img.shields.io/badge/📈%20Predictive%20Models-07143D?style=for-the-badge&labelColor=07143D"/>`{=html}
-`<img src="https://img.shields.io/badge/🧠%20Neural%20Networks-07143D?style=for-the-badge&labelColor=07143D"/>`{=html}
-`<img src="https://img.shields.io/badge/🤖%20Large%20Language%20Models-07143D?style=for-the-badge&labelColor=07143D"/>`{=html}
-`<img src="https://img.shields.io/badge/🧩%20AI%20Agents-07143D?style=for-the-badge&labelColor=07143D"/>`{=html}
-`<img src="https://img.shields.io/badge/⚙️%20Automation-07143D?style=for-the-badge&labelColor=07143D"/>`{=html}
-`<img src="https://img.shields.io/badge/📊%20Data%20Analysis-07143D?style=for-the-badge&labelColor=07143D"/>`{=html}
+``` text
+┌───────────────────────┐
+│       RAW DATA        │
+└───────────┬───────────┘
+            │
+            ▼
+┌───────────────────────┐
+│    DATA PROCESSING    │
+│    NumPy + Pandas     │
+└───────────┬───────────┘
+            │
+            ▼
+┌───────────────────────┐
+│     DATA ANALYSIS     │
+│   Statistics + EDA    │
+└───────────┬───────────┘
+            │
+            ▼
+┌───────────────────────┐
+│    MODEL TRAINING     │
+│    Scikit-Learn       │
+└───────────┬───────────┘
+            │
+            ▼
+┌───────────────────────┐
+│      EVALUATION       │
+│  Metrics + Validation │
+└───────────┬───────────┘
+            │
+            ▼
+┌───────────────────────┐
+│       DEPLOY           │
+│    Real AI System      │
+└───────────────────────┘
+```
 :::
 
 ------------------------------------------------------------------------
 
-## 📊 GitHub Analytics
+## 🚀 AI / ML LEARNING ROADMAP
 
 ::: {align="center"}
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syed-Hassaan-Bukhari&bg_color=050B2C&color=67E8F9&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%"/>`{=html}
+``` text
+AI / MACHINE LEARNING ENGINEERING
+
+[████████████████████]  Python Foundations
+[████████████████████]  Mathematics & Statistics
+[████████████████░░░░]  Regression & Supervised Learning
+[████████░░░░░░░░░░░░]  Unsupervised Learning
+[░░░░░░░░░░░░░░░░░░░░]  Deep Learning
+[░░░░░░░░░░░░░░░░░░░░]  Neural Networks
+[░░░░░░░░░░░░░░░░░░░░]  Computer Vision
+[░░░░░░░░░░░░░░░░░░░░]  NLP
+[░░░░░░░░░░░░░░░░░░░░]  Large Language Models
+[░░░░░░░░░░░░░░░░░░░░]  AI Agents
+[░░░░░░░░░░░░░░░░░░░░]  MLOps / Deployment
+[░░░░░░░░░░░░░░░░░░░░]  Production AI Systems
+
+CURRENT → Regression + Supervised Learning
+NEXT    → Deep Learning + Neural Networks
+FUTURE  → NLP + LLMs + AI Agents + Production AI
+```
+:::
+
+------------------------------------------------------------------------
+
+## 🎯 FOCUS AREAS
+
+::: {align="center"}
+`<img src="https://img.shields.io/badge/📈%20Predictive%20Models-07143D?style=for-the-badge" alt="Predictive Models"/>`{=html}
+`<img src="https://img.shields.io/badge/🧠%20Neural%20Networks-07143D?style=for-the-badge" alt="Neural Networks"/>`{=html}
+`<img src="https://img.shields.io/badge/🤖%20LLMs-07143D?style=for-the-badge" alt="LLMs"/>`{=html}
+`<img src="https://img.shields.io/badge/🧩%20AI%20Agents-07143D?style=for-the-badge" alt="AI Agents"/>`{=html}
+`<img src="https://img.shields.io/badge/⚙️%20Automation-07143D?style=for-the-badge" alt="Automation"/>`{=html}
+`<img src="https://img.shields.io/badge/📊%20Data%20Analysis-07143D?style=for-the-badge" alt="Data Analysis"/>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+## 📊 GITHUB ANALYTICS
+
+::: {align="center"}
+### CONTRIBUTION ACTIVITY
+
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syed-Hassaan-Bukhari&bg_color=050B2C&color=67E8F9&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=AI%20%2F%20ML%20CONTRIBUTION%20ACTIVITY" width="100%" alt="Contribution activity graph"/>`{=html}
 
 `<br>`{=html}
 
-`<img src="https://streak-stats.demolab.com/?user=Syed-Hassaan-Bukhari&theme=transparent&hide_border=true&background=050B2C&ring=8B5CF6&fire=EC4899&currStreakLabel=67E8F9&sideLabels=A78BFA&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="90%"/>`{=html}
+### CONTRIBUTION STREAK
+
+`<img src="https://streak-stats.demolab.com/?user=Syed-Hassaan-Bukhari&theme=transparent&hide_border=true&background=050B2C&ring=8B5CF6&fire=EC4899&currStreakLabel=67E8F9&sideLabels=A78BFA&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="90%" alt="GitHub contribution streak"/>`{=html}
 
 `<br>`{=html}
 
-`<img src="https://github-readme-stats.vercel.app/api?username=Syed-Hassaan-Bukhari&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050B2C&title_color=67E8F9&text_color=D8B4FE&icon_color=8B5CF6&rank_icon=github" width="75%"/>`{=html}
+### GITHUB STATS
+
+`<img src="https://github-readme-stats.vercel.app/api?username=Syed-Hassaan-Bukhari&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050B2C&title_color=67E8F9&text_color=D8B4FE&icon_color=8B5CF6&rank_icon=github" width="75%" alt="GitHub statistics"/>`{=html}
 :::
 
 ------------------------------------------------------------------------
 
-## 📈 Repository & Language Analytics
+## 📡 REPOSITORY TELEMETRY
 
 ::: {align="center"}
-`<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Syed-Hassaan-Bukhari&theme=tokyonight" width="100%"/>`{=html}
+`<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Syed-Hassaan-Bukhari&theme=tokyonight" width="100%" alt="GitHub profile details"/>`{=html}
+
+`<br>`{=html}`<br>`{=html}
+
+`<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Syed-Hassaan-Bukhari&theme=tokyonight" width="48%" alt="GitHub stats summary"/>`{=html}
+`<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Syed-Hassaan-Bukhari&theme=tokyonight" width="48%" alt="Repositories by language"/>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+## 📈 COMMIT GRAPH
+
+::: {align="center"}
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syed-Hassaan-Bukhari&bg_color=050B2C&color=A5F3FC&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=COMMIT%20TELEMETRY" width="100%" alt="Commit graph"/>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+## ⭐ FEATURED PROJECTS
+
+::: {align="center"}
+`<a href="https://github.com/Syed-Hassaan-Bukhari/Developer-s-Hub-Corporation-Internship-Task">`{=html}
+`<img src="https://github-readme-stats.vercel.app/api/pin/?username=Syed-Hassaan-Bukhari&repo=Developer-s-Hub-Corporation-Internship-Task&theme=tokyonight&hide_border=true&bg_color=050B2C&title_color=67E8F9&text_color=D8B4FE&icon_color=8B5CF6" width="48%" alt="Developers Hub Corporation Internship Task"/>`{=html}
+`</a>`{=html}
+
+`<a href="https://github.com/Syed-Hassaan-Bukhari/DevelopersHub-Advanced-Internship-Tasks">`{=html}
+`<img src="https://github-readme-stats.vercel.app/api/pin/?username=Syed-Hassaan-Bukhari&repo=DevelopersHub-Advanced-Internship-Tasks&theme=tokyonight&hide_border=true&bg_color=050B2C&title_color=67E8F9&text_color=D8B4FE&icon_color=8B5CF6" width="48%" alt="DevelopersHub Advanced Internship Tasks"/>`{=html}
+`</a>`{=html}
 
 `<br>`{=html}
 
-`<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Syed-Hassaan-Bukhari&theme=tokyonight" width="48%"/>`{=html}
-`<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Syed-Hassaan-Bukhari&theme=tokyonight" width="48%"/>`{=html}
-:::
+`<a href="https://github.com/Syed-Hassaan-Bukhari/SMIT-DATA-CLEANING-TASKS">`{=html}
+`<img src="https://github-readme-stats.vercel.app/api/pin/?username=Syed-Hassaan-Bukhari&repo=SMIT-DATA-CLEANING-TASKS&theme=tokyonight&hide_border=true&bg_color=050B2C&title_color=67E8F9&text_color=D8B4FE&icon_color=8B5CF6" width="48%" alt="SMIT Data Cleaning Tasks"/>`{=html}
+`</a>`{=html}
 
-------------------------------------------------------------------------
-
-## 📡 Commit Graph
-
-::: {align="center"}
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syed-Hassaan-Bukhari&bg_color=050B2C&color=A5F3FC&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=COMMIT%20TELEMETRY" width="100%"/>`{=html}
-:::
-
-------------------------------------------------------------------------
-
-## ✨ Featured Projects
-
-::: {align="center"}
-`<a href="https://github.com/Syed-Hassaan-Bukhari/Syed-Hassaan-Bukhari">`{=html}
-`<img src="https://github-readme-stats.vercel.app/api/pin/?username=Syed-Hassaan-Bukhari&repo=Syed-Hassaan-Bukhari&theme=tokyonight&hide_border=true&bg_color=050B2C&title_color=67E8F9&text_color=D8B4FE&icon_color=8B5CF6" width="55%"/>`{=html}
+`<a href="https://github.com/Syed-Hassaan-Bukhari/Saylani-Mass-IT-Training-Task">`{=html}
+`<img src="https://github-readme-stats.vercel.app/api/pin/?username=Syed-Hassaan-Bukhari&repo=Saylani-Mass-IT-Training-Task&theme=tokyonight&hide_border=true&bg_color=050B2C&title_color=67E8F9&text_color=D8B4FE&icon_color=8B5CF6" width="48%" alt="Saylani Mass IT Training Task"/>`{=html}
 `</a>`{=html}
 
 `<br>`{=html}`<br>`{=html}
 
-```{=html}
-<table>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td align="center" width="50%">
-```
-### 🤖 AI / ML Projects
-
-**Coming Soon**
-
-Machine Learning\
-Deep Learning\
-NLP\
-LLMs\
-AI Agents
-
-```{=html}
-</td>
-```
-```{=html}
-<td align="center" width="50%">
-```
-### 🚀 More Projects
-
-**In Progress**
-
-Real-world ML systems\
-Automation workflows\
-AI-powered tools\
-Portfolio projects
-
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-</table>
-```
-`<br>`{=html}
-
 `<a href="https://github.com/Syed-Hassaan-Bukhari?tab=repositories">`{=html}
-`<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/>`{=html}
 `</a>`{=html}
 :::
 
 ------------------------------------------------------------------------
 
-## 🐍 Contribution Snake
+## 🐍 CONTRIBUTION SNAKE
 
 ::: {align="center"}
 `<picture>`{=html}
-`<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Syed-Hassaan-Bukhari/Syed-Hassaan-Bukhari/output/github-contribution-grid-snake-dark.svg">`{=html}
-`<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Syed-Hassaan-Bukhari/Syed-Hassaan-Bukhari/output/github-contribution-grid-snake.svg">`{=html}
-`<img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Syed-Hassaan-Bukhari/Syed-Hassaan-Bukhari/output/github-contribution-grid-snake.svg" width="100%">`{=html}
+`<source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg">`{=html}
+`<source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg">`{=html}
+`<img src="./assets/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake"/>`{=html}
 `</picture>`{=html}
 :::
 
 ------------------------------------------------------------------------
 
-## ⚙️ Build Philosophy
+## ⚙️ BUILD PHILOSOPHY
 
 ::: {align="center"}
-   PRINCIPLE  APPROACH
-  ----------- -------------------------------
-      🧠      **Fundamentals \> Hype**
-      🛠️      **Build \> Watch**
-      📚      **Understand \> Memorize**
-      🚀      **Projects \> Certificates**
-      🔧      **Debug \> Give Up**
-      ⚡      **Ship \> Perfect**
-      🔁      **Consistency \> Motivation**
-
-`<br>`{=html}
+``` text
+╔══════════════════════════════════════════════════════════════╗
+║                     AI ENGINEERING CORE                      ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║       FUNDAMENTALS       >       HYPE                        ║
+║       BUILD              >       CONSUME                     ║
+║       UNDERSTAND         >       MEMORIZE                    ║
+║       PROJECTS           >       CERTIFICATES                ║
+║       DEBUG              >       GIVE UP                     ║
+║       SHIP               >       PERFECT                     ║
+║       ITERATE            >       EXCUSES                     ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 **Learn in Public • Build in Public • Improve in Public**
 :::
 
 ------------------------------------------------------------------------
 
-## 📬 Connect With Me
+## 🛰️ LONG-TERM VISION
+
+::: {align="center"}
+``` text
+                    ┌────────────────────┐
+                    │     AI / ML        │
+                    │      ENGINEER      │
+                    └─────────┬──────────┘
+                              │
+                              ▼
+                    ┌────────────────────┐
+                    │   AI SYSTEM        │
+                    │     BUILDER        │
+                    └─────────┬──────────┘
+                              │
+                              ▼
+                    ┌────────────────────┐
+                    │     PRODUCT        │
+                    │     BUILDER        │
+                    └─────────┬──────────┘
+                              │
+                              ▼
+                    ┌────────────────────┐
+                    │      FOUNDER       │
+                    └─────────┬──────────┘
+                              │
+                              ▼
+                    ┌────────────────────┐
+                    │   TECHNOLOGY       │
+                    │      COMPANY       │
+                    └────────────────────┘
+```
+
+### BUILDING TECHNOLOGY THAT SOLVES REAL PROBLEMS.
+:::
+
+------------------------------------------------------------------------
+
+## 📬 CONNECT
 
 ::: {align="center"}
 `<a href="mailto:aiandmldeveloper22@gmail.com">`{=html}
-`<img src="https://img.shields.io/badge/Email-aiandmldeveloper22%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/EMAIL-aiandmldeveloper22%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>`{=html}
 `</a>`{=html}
 
 `<a href="https://www.linkedin.com/in/syed-hassaan-bukhari-0b72b8424/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-Syed%20Hassaan%20Bukhari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/LINKEDIN-SYED%20HASSAAN%20BUKHARI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}
 `</a>`{=html}
 
 `<a href="https://www.instagram.com/hassaan_bhai.18">`{=html}
-`<img src="https://img.shields.io/badge/Instagram-@hassaan__bhai.18-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/INSTAGRAM-@HASSAAN__BHAI.18-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>`{=html}
 `</a>`{=html}
 
 `<a href="https://github.com/Syed-Hassaan-Bukhari">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-Syed--Hassaan--Bukhari-111827?style=for-the-badge&logo=github&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/GITHUB-SYED--HASSAAN--BUKHARI-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}
 `</a>`{=html}
 :::
 
 ------------------------------------------------------------------------
 
 ::: {align="center"}
-### `SYSTEM STATUS: ONLINE`
+``` text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│                    SYSTEM STATUS: ONLINE                   │
+│                                                            │
+│       AI/ML CORE  •  PYTHON  •  LEARNING  •  BUILDING     │
+│                                                            │
+│             LEARN • BUILD • DEPLOY • IMPROVE              │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+```
 
-**LEARN • BUILD • DEPLOY • IMPROVE • REPEAT**
+`<br>`{=html}
 
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,30:4F46E5,65:312E81,100:020617&height=150&section=footer" width="100%"/>`{=html}
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,30:4F46E5,65:312E81,100:020617&height=150&section=footer" width="100%" alt="Footer"/>`{=html}
 :::
