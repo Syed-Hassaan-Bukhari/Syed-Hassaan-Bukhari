@@ -246,30 +246,68 @@ AI / MACHINE LEARNING ENGINEERING
 </div>
 
 ---
-
-# FEATURED PROJECTS
-
 <div align="center">
 
-<a href="https://github.com/Syed-Hassaan-Bukhari">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Syed-Hassaan-Bukhari&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true&bg_color=030712&title_color=67E8F9&icon_color=8B5CF6" width="48%"/>
-</a>
-
-<a href="https://github.com/Syed-Hassaan-Bukhari">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Syed-Hassaan-Bukhari&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true&bg_color=030712&title_color=67E8F9&icon_color=8B5CF6" width="48%"/>
-</a>
-
-<br>
-
-<a href="https://github.com/Syed-Hassaan-Bukhari">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Syed-Hassaan-Bukhari&repo=YOUR_PROJECT_3&theme=tokyonight&hide_border=true&bg_color=030712&title_color=67E8F9&icon_color=8B5CF6" width="48%"/>
-</a>
-
-<a href="https://github.com/Syed-Hassaan-Bukhari">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Syed-Hassaan-Bukhari&repo=YOUR_PROJECT_4&theme=tokyonight&hide_border=true&bg_color=030712&title_color=67E8F9&icon_color=8B5CF6" width="48%"/>
-</a>
+🚀 FEATURED PROJECTS
 
 </div>
+
+<table> <tr>
+
+<td width="50%" valign="top">
+
+🤖 DevelopersHub AI/ML Internship
+
+Practical AI/ML engineering work involving machine learning, data processing and model development.
+
+Python Jupyter Scikit-Learn
+
+<a href="https://github.com/Syed-Hassaan-Bukhari/Developer-s-Hub-Corporation-Internship-Task"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050816" /> </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+🧠 DevelopersHub Advanced Internship
+
+Advanced hands-on work focused on AI/ML engineering and intelligent-system development.
+
+Python ML LLM Jupyter
+
+<a href="https://github.com/Syed-Hassaan-Bukhari/DevelopersHub-Advanced-Internship-Tasks"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=050816" /> </a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+📊 SMIT Data Cleaning
+
+Data cleaning, preprocessing and dataset preparation for analysis and machine learning.
+
+Python Pandas NumPy
+
+<a href="https://github.com/Syed-Hassaan-Bukhari/SMIT-DATA-CLEANING-TASKS"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050816" /> </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+📈 Saylani Prediction Task
+
+Machine learning experimentation focused on prediction and data analysis.
+
+Python Jupyter Machine Learning
+
+<a href="https://github.com/Syed-Hassaan-Bukhari/Saylani-Mass-IT-Training-Task"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=050816" /> </a>
+
+</td>
+
+</tr> </table>
+
 
 ---
 
