@@ -208,7 +208,6 @@ AI / MACHINE LEARNING ENGINEERING
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Syed-Hassaan-Bukhari&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=030712&title_color=67E8F9&text_color=C4B5FD&icon_color=8B5CF6&rank_icon=github" width="70%"/>
 
 </div>
 
@@ -240,8 +239,6 @@ AI / MACHINE LEARNING ENGINEERING
 # COMMIT GRAPH
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syed-Hassaan-Bukhari&bg_color=020617&color=A5F3FC&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=COMMIT%20TELEMETRY" width="100%"/>
 
 </div>
 
