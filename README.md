@@ -143,15 +143,6 @@ I believe in **building over consuming** — fewer courses collected, more model
 <img src="https://github-readme-stats.vercel.app/api?username=Syed-Hassaan-Bukhari&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=030712&title_color=67E8F9&text_color=C4B5FD&icon_color=8B5CF6&rank_icon=github" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-Hassaan-Bukhari&hide_border=true&background=030712&ring=8B5CF6&fire=EC4899&currStreakLabel=67E8F9&sideLabels=A78BFA&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%"/>
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syed-Hassaan-Bukhari&bg_color=030712&color=67E8F9&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Hassaan-Bukhari&layout=compact&hide_border=true&bg_color=030712&title_color=67E8F9&text_color=C4B5FD" width="45%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=Syed-Hassaan-Bukhari&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="52%"/>
-
 </div>
 
 <br>
