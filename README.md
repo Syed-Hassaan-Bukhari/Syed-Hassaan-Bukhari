@@ -234,15 +234,6 @@ AI / MACHINE LEARNING ENGINEERING
 
 > These values are intentionally generated from GitHub services rather than manually invented. GitHub's own profile exposes repositories, contribution activity, pinned work, and the contribution graph.
 
----
-
-# COMMIT GRAPH
-
-<div align="center">
-
-</div>
-
----
 <div align="center">
 
 🚀 FEATURED PROJECTS
