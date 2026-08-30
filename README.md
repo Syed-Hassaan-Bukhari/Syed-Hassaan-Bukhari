@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31610303/README.md)
+
 ::: {align="center"}
 `<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:06144A,45:101B67,70:312E81,100:7C3AED&height=290&section=header&text=SYED%20HASSAAN%20BUKHARI&fontSize=43&fontColor=FFFFFF&animation=fadeIn&fontAlignY=31&desc=AI%20%26%20MACHINE%20LEARNING%20ENTHUSIAST%20%7C%20PYTHON%20DEVELOPER%20%7C%20FUTURE%20FOUNDER&descAlignY=55&descSize=16&descColor=67E8F9" width="100%"/>`{=html}
 
