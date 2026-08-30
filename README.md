@@ -1,307 +1,366 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111827,100:7C3AED&height=260&section=header&text=SYED%20HASSAAN%20BUKHARI&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20ENGINEER%20IN%20PROGRESS&descAlignY=55&descSize=18&descColor=A78BFA" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<br/>
+<!--                    FUTURISTIC HEADER                        -->
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=%3E+Initializing+AI+Developer+Profile...;%3E+Training+Models.+Building+Systems.;%3E+Turning+Ideas+Into+Technology.;%3E+Future+Founder+%7C+AI+%7C+ML+%7C+Python" alt="Typing SVG"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030014,30:09001F,65:24005A,100:7C3AED&height=280&section=header&text=SYED%20HASSAAN%20BUKHARI&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=AI%20%2F%20ML%20%7C%20PYTHON%20%7C%20SYSTEMS%20%7C%20FUTURE%20FOUNDER&descAlignY=57&descSize=17&descColor=C4B5FD" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=Syed-Hassaan-Bukhari&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/badge/STATUS-BUILDING%20%26%20LEARNING-8B5CF6?style=for-the-badge" alt="Status"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-06B6D4?style=for-the-badge" alt="Focus"/>
-<img src="https://img.shields.io/badge/BASED%20IN-PAKISTAN-10B981?style=for-the-badge" alt="Pakistan"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&repeat=true&width=900&height=80&lines=%3E%3E+SYSTEM+ONLINE;%3E%3E+AI+DEVELOPER+PROFILE+INITIALIZED;%3E%3E+LEARNING.+BUILDING.+SHIPPING.;%3E%3E+FUTURE+FOUNDER+PROTOCOL+ACTIVE" alt="Typing"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Syed-Hassaan-Bukhari&label=VISITORS&color=7C3AED&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CORE-AI%20%2F%20ML-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STACK-PYTHON-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODE-BUILDING-10B981?style=for-the-badge"/>
+
+<br><br>
+
+`[ SYSTEM STATUS: ONLINE ]`   `[` `AI/ML` `]`   `[` `BUILD MODE` `]`
 
 </div>
 
 ---
 
-# `01` // SYSTEM PROFILE
+# ◈ `01` // IDENTITY
 
-```python
-class Hassaan:
+<div align="center">
 
-    identity = {
-        "name": "Syed Hassaan Bukhari",
-        "role": "AI/ML Developer in Progress",
-        "location": "Pakistan 🇵🇰",
-        "mindset": "Build > Consume"
-    }
-
-    stack = [
-        "Python",
-        "NumPy",
-        "Pandas",
-        "Scikit-Learn",
-        "Machine Learning",
-        "AI Tools",
-        "Automation"
-    ]
-
-    currently_building = [
-        "Machine Learning Projects",
-        "Regression Models",
-        "AI Automations",
-        "Developer Portfolio"
-    ]
-
-    long_term_mission = """
-    Build technology that solves real problems,
-    create scalable products,
-    and eventually build a technology company.
-    """
-
-    def execute(self):
-        return "Learn → Build → Deploy → Improve → Repeat"
-
-
-Hassaan = Hassaan()
-print(Hassaan.execute())
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                       HASSAAN // PROFILE                        ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  NAME       ──►  Syed Hassaan Bukhari                           ║
+║  DOMAIN     ──►  Artificial Intelligence / Machine Learning     ║
+║  LANGUAGE   ──►  Python                                         ║
+║  MODE       ──►  Learn → Build → Deploy                         ║
+║  STATUS     ──►  ACTIVELY BUILDING                              ║
+║                                                                  ║
+║  MISSION                                                        ║
+║  ────────────────────────────────────────────────────────────   ║
+║  Master AI/ML engineering, build real products, and eventually  ║
+║  create technology companies that solve real-world problems.    ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-> **Mission:** Learn the fundamentals deeply, build real systems, and eventually turn technical skills into products and companies.
+</div>
+
+### `$ whoami`
+
+> I'm an AI/ML learner and Python developer focused on understanding the fundamentals, building projects, experimenting with AI systems, and turning technical knowledge into useful products.
+
+### `$ current_process`
+
+```text
+[01] Learn the fundamentals
+        ↓
+[02] Understand the mathematics
+        ↓
+[03] Build models
+        ↓
+[04] Build real projects
+        ↓
+[05] Deploy systems
+        ↓
+[06] Iterate
+        ↓
+[07] Build products
+```
 
 ---
 
-# `02` // CURRENT OPERATING SYSTEM
+# ◈ `02` // ACTIVE MISSION
+
+<div align="center">
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│                    HASSAAN.OS v1.0                          │
+│                    CURRENT MISSION                          │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│  CORE LANGUAGE       Python                                 │
-│  PRIMARY DOMAIN      Artificial Intelligence / ML           │
-│  CURRENT LEVEL       Building Foundations                   │
-│  DEVELOPMENT MODE    Project-Based                          │
-│  LEARNING MODE       Self-Directed                          │
+│  ████████████████████░░░░░░░░░░                            │
 │                                                             │
-│  CURRENT MISSION                                           │
-│  └── Transform mathematical concepts into working models   │
-│                                                             │
-│  NEXT OBJECTIVE                                           │
-│  └── Deep Learning → NLP → LLMs → AI Systems              │
+│  Python Foundations                  [ COMPLETE ]            │
+│  Mathematics + Statistics            [ COMPLETE ]            │
+│  Regression + Supervised ML          [ ACTIVE ]              │
+│  Unsupervised Learning               [ NEXT ]                │
+│  Deep Learning                       [ LOCKED ]               │
+│  Neural Networks                     [ LOCKED ]               │
+│  NLP + LLMs                          [ LOCKED ]               │
+│  AI Agents                           [ LOCKED ]               │
+│  Production AI                       [ LOCKED ]               │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
 ---
 
-# `03` // TECHNOLOGY MATRIX
+# ◈ `03` // TECHNOLOGY CORE
+
+<div align="center">
 
 ### `LANGUAGES`
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+
+<br><br>
 
 ### `AI / DATA`
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=numpy,pytorch,tensorflow&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,pytorch,tensorflow&theme=dark"/>
 
-### `TOOLS / ENVIRONMENT`
+<br><br>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" />
-</p>
+### `DEVELOPMENT`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark"/>
+
+<br><br>
 
 ### `AUTOMATION`
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-
-</p>
-
-> Technologies are added to the stack when I actually understand and use them, not just because they look good on a profile.
-
----
-
-# `04` // LEARNING PROTOCOL
-
-```text
-                    ┌──────────────────┐
-                    │   PYTHON CORE    │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │ MATH + STATISTICS│
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │ MACHINE LEARNING │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │  DEEP LEARNING  │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │  NLP + LLMs     │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │   AI SYSTEMS    │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │ REAL PRODUCTS   │
-                    └──────────────────┘
-```
-
----
-
-# `05` // DEVELOPMENT ROADMAP
-
-```text
-AI / ML ENGINEERING ROADMAP
-────────────────────────────────────────────────────
-
-[██████████] Python Foundations                  ✔
-[██████████] Mathematics & Statistics            ✔
-[████████░░] Regression & Supervised Learning    ▶
-[░░░░░░░░░░] Unsupervised Learning               ○
-[░░░░░░░░░░] Deep Learning                       ○
-[░░░░░░░░░░] Neural Networks                     ○
-[░░░░░░░░░░] Computer Vision                     ○
-[░░░░░░░░░░] NLP                                 ○
-[░░░░░░░░░░] Large Language Models               ○
-[░░░░░░░░░░] AI Agents                           ○
-[░░░░░░░░░░] MLOps / Deployment                  ○
-[░░░░░░░░░░] Production AI Systems               ○
-
-Legend:
-✔ COMPLETE
-▶ CURRENT
-○ LOCKED
-```
-
----
-
-# `06` // BUILD LOG
-
-### Current Projects
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│ PROJECT STATUS                                          │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│ 01  Machine Learning Experiments       [ IN PROGRESS ] │
-│ 02  Regression Models                  [ IN PROGRESS ] │
-│ 03  Python Projects                    [ ACTIVE ]      │
-│ 04  AI Automation Experiments          [ EXPLORING ]   │
-│ 05  Future AI Product                  [ CLASSIFIED ]  │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-> More projects will appear here as they become worth showing.
-
----
-
-# `07` // GITHUB TELEMETRY
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Syed-Hassaan-Bukhari/Syed-Hassaan-Bukhari/main/metrics.svg" width="95%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-Hassaan-Bukhari&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://img.shields.io/badge/n8n-AI%20AUTOMATION-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 
 </div>
 
 ---
 
-# `08` // CONTRIBUTION MATRIX
+# ◈ `04` // LEARNING ARCHITECTURE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Syed-Hassaan-Bukhari/Syed-Hassaan-Bukhari/output/github-contribution-grid-snake.svg" width="95%"/>
+```text
+                    ┌─────────────────────┐
+                    │    PYTHON CORE      │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │ MATH + STATISTICS   │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │   MACHINE LEARNING  │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │   DEEP LEARNING     │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │    NLP + LLMs       │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │    AI SYSTEMS       │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │   REAL PRODUCTS     │
+                    └─────────────────────┘
+```
 
 </div>
 
 ---
 
-# `09` // ENGINEERING PRINCIPLES
-
-```text
-┌──────────────────────────────────────────────────────┐
-│                 DEVELOPMENT PROTOCOL                 │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  01  Understand the fundamentals.                    │
-│  02  Don't memorize what you can derive.             │
-│  03  Build projects instead of collecting courses.  │
-│  04  Write code consistently.                        │
-│  05  Read documentation.                             │
-│  06  Break things. Debug them. Learn why.            │
-│  07  Ship real projects.                             │
-│  08  Improve through iteration.                      │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
----
-
-# `10` // FUTURE TARGET
+# ◈ `05` // GITHUB ANALYTICS
 
 <div align="center">
 
-```text
-             ┌────────────────────────────┐
-             │       LONG-TERM VISION     │
-             └─────────────┬──────────────┘
-                           │
-                           ▼
-                 ┌──────────────────┐
-                 │   AI ENGINEER    │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │ PRODUCT BUILDER  │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │    FOUNDER       │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │ TECHNOLOGY CO.   │
-                 └──────────────────┘
-```
+### `CONTRIBUTION ACTIVITY`
 
-**The goal isn't to collect technologies.**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syed-Hassaan-Bukhari&bg_color=050816&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
-**The goal is to use technology to build things people actually need.**
+<br>
+
+### `CONTRIBUTION STREAK`
+
+<img src="https://streak-stats.demolab.com?user=Syed-Hassaan-Bukhari&theme=transparent&hide_border=true&ring=8B5CF6&fire=EC4899&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=94A3B8" width="80%"/>
+
+<br>
+
+### `COMMIT / CONTRIBUTION GRAPH`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syed-Hassaan-Bukhari&custom_title=HASSAAN%20%2F%2F%20COMMIT%20TELEMETRY&bg_color=030014&color=C4B5FD&line=8B5CF6&point=FFFFFF&area_color=7C3AED&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-# `11` // CONNECT
+# ◈ `06` // REPOSITORY TELEMETRY
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Syed-Hassaan-Bukhari&theme=tokyonight" width="100%"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Syed-Hassaan-Bukhari&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Syed-Hassaan-Bukhari&theme=tokyonight" width="48%"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Syed-Hassaan-Bukhari&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Syed-Hassaan-Bukhari&theme=tokyonight" width="48%"/>
+
+</div>
+
+---
+
+# ◈ `07` // LIVE GITHUB METRICS
+
+<div align="center">
+
+|         METRIC         | STATUS |
+| :--------------------: | :----: |
+|  📦 Total Repositories | `LIVE` |
+|     ⭐ Stars Earned     | `LIVE` |
+| 🔥 Contribution Streak | `LIVE` |
+|    🧩 Contributions    | `LIVE` |
+|       💻 Commits       | `LIVE` |
+|    📝 Pull Requests    | `LIVE` |
+|        🐛 Issues       | `LIVE` |
+|      👥 Followers      | `LIVE` |
+
+</div>
+
+> **Note:** The values above should be generated dynamically from GitHub rather than manually hard-coded.
+
+---
+
+# ◈ `08` // FEATURED PROJECTS
+
+<div align="center">
+
+<a href="https://github.com/Syed-Hassaan-Bukhari?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Syed-Hassaan-Bukhari&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" width="48%"/>
+</a>
+
+<a href="https://github.com/Syed-Hassaan-Bukhari?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Syed-Hassaan-Bukhari&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" width="48%"/>
+</a>
+
+<br>
+
+<a href="https://github.com/Syed-Hassaan-Bukhari?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Syed-Hassaan-Bukhari&repo=YOUR_PROJECT_3&theme=tokyonight&hide_border=true" width="48%"/>
+</a>
+
+<a href="https://github.com/Syed-Hassaan-Bukhari?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Syed-Hassaan-Bukhari&repo=YOUR_PROJECT_4&theme=tokyonight&hide_border=true" width="48%"/>
+</a>
+
+</div>
+
+> Replace `YOUR_PROJECT_1` etc. with the actual repository names. Don't feature empty or tutorial-only repositories. Feature projects that demonstrate actual engineering ability.
+
+---
+
+# ◈ `09` // CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Syed-Hassaan-Bukhari/Syed-Hassaan-Bukhari/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+
+---
+
+# ◈ `10` // ENGINEERING PROTOCOL
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                 HASSAAN ENGINEERING PROTOCOL                 ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  01  FUNDAMENTALS > HYPE                                     ║
+║  02  BUILD > WATCH                                           ║
+║  03  UNDERSTAND > MEMORIZE                                   ║
+║  04  PROJECTS > CERTIFICATES                                 ║
+║  05  DOCUMENTATION > GUESSING                                ║
+║  06  DEBUG > GIVE UP                                         ║
+║  07  SHIP > PERFECT                                          ║
+║  08  ITERATE > EXCUSES                                       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+# ◈ `11` // LONG-TERM VECTOR
+
+<div align="center">
+
+```text
+                  ┌────────────────────┐
+                  │    AI / ML         │
+                  │     ENGINEER       │
+                  └─────────┬──────────┘
+                            │
+                            ▼
+                  ┌────────────────────┐
+                  │   AI SYSTEM        │
+                  │     BUILDER        │
+                  └─────────┬──────────┘
+                            │
+                            ▼
+                  ┌────────────────────┐
+                  │  PRODUCT BUILDER   │
+                  └─────────┬──────────┘
+                            │
+                            ▼
+                  ┌────────────────────┐
+                  │      FOUNDER       │
+                  └─────────┬──────────┘
+                            │
+                            ▼
+                  ┌────────────────────┐
+                  │   TECHNOLOGY       │
+                  │     COMPANY        │
+                  └────────────────────┘
+```
+
+### `OBJECTIVE`
+
+**Build technology that solves real problems.**
+
+Not just another collection of certificates, tutorials, or copied projects.
+
+---
+
+# ◈ `12` // CONNECT
 
 <div align="center">
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Syed-Hassaan-Bukhari">
+<img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.fiverr.com/">
-<img src="https://img.shields.io/badge/FIVERR-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+<img src="https://img.shields.io/badge/FIVERR-10B981?style=for-the-badge&logo=fiverr&logoColor=white"/>
 </a>
 
 <a href="https://www.upwork.com/">
@@ -309,7 +368,7 @@ Legend:
 </a>
 
 <a href="mailto:aiandmldeveloper22@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -318,23 +377,22 @@ Legend:
 
 <div align="center">
 
-### `SYSTEM STATUS`
-
 ```text
-[ ONLINE ]
-
-Learning     ████████████████████░░░░
-Building     ████████████████░░░░░░░
-Experiment   ██████████████░░░░░░░░░
-Shipping     ██████████░░░░░░░░░░░░░
+┌───────────────────────────────────────────────────────────┐
+│                                                           │
+│                    SYSTEM STATUS: ONLINE                  │
+│                                                           │
+│       LEARN  →  BUILD  →  DEPLOY  →  IMPROVE             │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
 ```
 
-<br/>
+<br>
 
-**Learn. Build. Break. Fix. Ship. Repeat.**
+**`BUILDING THE FUTURE, ONE SYSTEM AT A TIME.`**
 
-<br/>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:050816&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,35:4F46E5,70:24005A,100:030014&height=160&section=footer" width="100%"/>
 
 </div>
