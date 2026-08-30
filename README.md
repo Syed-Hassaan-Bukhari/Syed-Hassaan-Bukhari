@@ -1,422 +1,214 @@
 <div align="center">
 
-# ⚡ SYED HASSAAN BUKHARI
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:24105C,100:00E5FF&height=180&section=header&text=SYED%20HASSAAN%20BUKHARI&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20MACHINE%20LEARNING%20ENTHUSIAST%20%7C%20PYTHON%20DEVELOPER%20%7C%20FUTURE%20FOUNDER&descSize=15&descAlignY=58" />
 
-### `AI / ML ENGINEER IN PROGRESS` · `PYTHON DEVELOPER` · `INTELLIGENT SYSTEMS BUILDER`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+with+Python+%7C+AI+%7C+Machine+Learning;Learning+the+fundamentals+behind+intelligent+systems;Turning+data+into+models+and+models+into+products;Learn+%E2%80%A2+Build+%E2%80%A2+Deploy+%E2%80%A2+Improve" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=750&lines=Turning+Code+into+Intelligent+Systems...;Learning+AI.+Building+Projects.+Solving+Problems.;Machine+Learning+%7C+Deep+Learning+%7C+AI+Agents;Build+%3E+Learn+%3E+Deploy+%3E+Improve+%3E+Repeat" />
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Syed-Hassaan-Bukhari)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/syed-hassaan-bukhari-0b72b8424/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/hassaan_bhai.18/)
+<img src="https://img.shields.io/badge/●%20SYSTEM-ONLINE-00E5A0?style=for-the-badge&labelColor=050816" />
+<img src="https://img.shields.io/badge/PYTHON-DEVELOPER-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=050816" />
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-FOCUSED-7C3AED?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=050816" />
+<img src="https://img.shields.io/badge/BUILDING-THE%20FUTURE-00E5FF?style=for-the-badge&labelColor=050816" />
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Syed-Hassaan-Bukhari&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas,jupyter,vscode,git,github&theme=dark" />
 
 </div>
 
 ---
 
-# `01` // SYSTEM INITIALIZATION
+# 🧠 ABOUT ME
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm **Syed Hassaan Bukhari**, an AI/ML learner and Python developer focused on understanding how intelligent systems are built.
+
+I enjoy turning ideas into working software, learning through real projects, and solving real-world problems with technology.
+
+### 🔬 Currently Learning
+
+- 🐍 Python
+- 📊 Data Science
+- 📈 Regression
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 🕸️ Neural Networks
+
+### 🎯 Next Goals
+
+- NLP & LLMs
+- Computer Vision
+- AI Agents
+- ML Deployment
+- AI Automation
+- Real-World AI Products
+
+### 🌌 Long-Term Vision
+
+Build intelligent products, solve meaningful real-world problems, and eventually build a technology company.
+
+### ⚡ Mindset
+
+> **Build > Consume**
+>
+> **Consistency > Motivation**
+>
+> **Projects > Certificates**
+
+</td>
+
+<td width="40%" valign="top">
+
+## 📡 QUICK FACTS
 
 ```text
-╭──────────────────────────────────────────────────────────────────────╮
-│                         HASSAAN.OS                                  │
-├──────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  STATUS          ● ONLINE                                            │
-│  ROLE            AI / ML ENGINEER IN PROGRESS                        │
-│  CORE LANGUAGE   Python                                               │
-│  DOMAIN          Artificial Intelligence                              │
-│  SPECIALTY       Machine Learning / Data Science                      │
-│  MODE            BUILD                                                │
-│  MISSION         Build intelligent systems that solve real problems   │
-│                                                                      │
-╰──────────────────────────────────────────────────────────────────────╯
-```
-
-I’m **Syed Hassaan Bukhari**, an aspiring AI/ML Engineer and Python Developer focused on understanding how intelligent systems work and turning that knowledge into real software.
-
-My approach is simple:
-
-> **Understand → Implement → Experiment → Debug → Deploy → Improve**
-
-I am currently building my foundations across **Python, mathematics, statistics, data science and machine learning**, with a long-term direction toward **deep learning, NLP, LLMs, AI agents and production AI systems**.
-
----
-
-# `02` // CURRENT MISSION
-
-```text
-                     ┌───────────────────────────┐
-                     │       ARTIFICIAL AI        │
-                     │       INTELLIGENCE         │
-                     └─────────────┬─────────────┘
-                                   │
-                                   ▼
-                     ┌───────────────────────────┐
-                     │     MACHINE LEARNING      │
-                     └─────────────┬─────────────┘
-                                   │
-                                   ▼
-                     ┌───────────────────────────┐
-                     │       DEEP LEARNING       │
-                     └─────────────┬─────────────┘
-                                   │
-                                   ▼
-                     ┌───────────────────────────┐
-                     │        LLMs / NLP         │
-                     └─────────────┬─────────────┘
-                                   │
-                                   ▼
-                     ┌───────────────────────────┐
-                     │        AI AGENTS          │
-                     └─────────────┬─────────────┘
-                                   │
-                                   ▼
-                     ┌───────────────────────────┐
-                     │     PRODUCTION AI         │
-                     └───────────────────────────┘
-```
-
-### Current priorities
-
-* 🐍 Python programming
-* 📊 Data analysis and visualization
-* 🧮 Mathematics and statistics for ML
-* 🤖 Supervised machine learning
-* 🧪 Model experimentation and evaluation
-* 🧠 Deep learning foundations
-* 🔤 NLP and LLM systems
-* ⚙️ AI agents and automation
-* 🚀 Production-oriented AI engineering
-
----
-
-# `03` // TECHNOLOGY MATRIX
-
-### Programming
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge\&logo=jupyter\&logoColor=F37626)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
-
-### Data Science
-
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge\&logo=numpy\&logoColor=4DABCF)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge\&logo=pandas\&logoColor=150458)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge\&logo=matplotlib\&logoColor=FFFFFF)
-
-### Machine Learning
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge\&logo=scikit-learn\&logoColor=F7931E)
-
-### Currently Exploring
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge\&logo=tensorflow\&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge\&logo=pytorch\&logoColor=EE4C2C)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge\&logo=huggingface\&logoColor=FFD21E)
+┌──────────────────────────┐
+│ CODE      → Python       │
+│ DOMAIN    → AI / ML      │
+│ FOCUS     → AI Systems   │
+│ STYLE     → Project Based│
+│ LEVEL     → Learning     │
+│ LOCATION  → Pakistan 🇵🇰  │
+└──────────────────────────┘
 
----
 
-# `04` // ENGINEERING PIPELINE
 
-```text
-                         ┌───────────────┐
-                         │   RAW DATA    │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │ DATA CLEANING │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     EDA       │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │  FEATURES     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │ MODEL TRAINING│
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │  EVALUATION   │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │   ITERATE     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │    DEPLOY     │
-                         └───────────────┘
-```
+🖥️ TERMINAL
+hassaan@ai-lab:~$ goals
 
-The goal isn't just to train models.
+▶ Master AI/ML        [IN PROGRESS]
+▶ Build Real Projects [ACTIVE]
+▶ AI Systems          [NEXT]
+▶ AI Engineer         [TARGET]
+▶ Tech Company        [DREAM]
 
-The goal is to understand the **complete lifecycle of an AI system**.
+hassaan@ai-lab:~$ status
 
----
+> Keep Going...
 
-# `05` // FEATURED WORK
 
-## 🧠 Developers Hub Corporation — AI/ML Internship
 
-### [`Developer-s-Hub-Corporation-Internship-Task`](https://github.com/Syed-Hassaan-Bukhari/Developer-s-Hub-Corporation-Internship-Task)
+⚙️ TECH STACK & TOOLS
+<div align="center">
+🐍 Programming
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+📊 Data Science
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib&theme=dark" />
+🤖 Machine Learning
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
+🧠 Deep Learning
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+🛠️ Environment & Development
+<img src="https://skillicons.dev/icons?i=jupyter,vscode,git,github&theme=dark" />
+☁️ Cloud / Notebook
+<img src="https://skillicons.dev/icons?i=googlecolab&theme=dark" /> </div>
 
-AI/ML engineering internship work covering machine learning workflows and LLM-oriented experimentation.
+🧬 AI / ML LEARNING ROADMAP
+<table> <tr> <td width="55%" valign="top">
 
-**Focus**
-
-`Machine Learning` · `Classification` · `Model Evaluation` · `LLM Fine-Tuning`
+| Status | Area                             | Progress |
+| :----: | -------------------------------- | -------: |
+|   🟢   | Python Foundations               | **100%** |
+|   🟢   | Math & Statistics                | **100%** |
+|   🔵   | Regression & Supervised Learning |  **70%** |
+|    ⚪   | Unsupervised Learning            |   **0%** |
+|    ⚪   | Deep Learning                    |   **0%** |
+|    ⚪   | Neural Networks                  |   **0%** |
+|    ⚪   | Computer Vision                  |   **0%** |
+|    ⚪   | NLP & LLMs                       |   **0%** |
+|    ⚪   | AI Agents                        |   **0%** |
+|    ⚪   | MLOps / Deployment               |   **0%** |
+|    ⚪   | Real-World AI Products           |   **0%** |
 
----
 
-## ⚡ Developers Hub — Advanced AI/ML Tasks
 
-### [`DevelopersHub-Advanced-Internship-Tasks`](https://github.com/Syed-Hassaan-Bukhari/DevelopersHub-Advanced-Internship-Tasks)
+📊 GITHUB ANALYTICS
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Syed-Hassaan-Bukhari&show_icons=true&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF&icon_color=7C3AED&include_all_commits=true&count_private=true" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Hassaan-Bukhari&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF&langs_count=8" />
 
-Advanced internship assignments focused on practical AI/ML implementation and experimentation.
+<br><br>
 
-**Focus**
+<img src="https://streak-stats.demolab.com?user=Syed-Hassaan-Bukhari&hide_border=true&background=050816&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" /> </div>
 
-`Python` · `Jupyter` · `Machine Learning` · `AI Engineering`
 
----
-
-## 📊 SMIT Data Cleaning Tasks
-
-### [`SMIT-DATA-CLEANING-TASKS`](https://github.com/Syed-Hassaan-Bukhari/SMIT-DATA-CLEANING-TASKS)
-
-Hands-on data preparation and cleaning work developed during AI & Data Science training.
-
-**Focus**
-
-`Data Cleaning` · `Pandas` · `Data Preparation` · `EDA`
-
----
-
-## 📈 Prediction & Machine Learning
 
-### [`Saylani-Mass-IT-Training-Task`](https://github.com/Syed-Hassaan-Bukhari/Saylani-Mass-IT-Training-Task)
 
-Practical machine learning work focused on prediction and dataset-based modeling.
+📈 CONTRIBUTION ACTIVITY
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syed-Hassaan-Bukhari&bg_color=050816&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" /> </div>
 
-**Focus**
 
-`Prediction` · `Machine Learning` · `Dataset Analysis`
 
----
-
-## 🧪 AI & Data Science — Batch 15
-
-### [`THE-AI-AND-DATA-SCIENCE-BATCH-15`](https://github.com/Syed-Hassaan-Bukhari/THE-AI-AND-DATA-SCIENCE-BATCH-15)
-
-Machine learning coursework and practical experimentation from AI & Data Science training.
-
-**Focus**
-
-`Python` · `Data Science` · `Machine Learning` · `Jupyter`
-
----
-
-# `06` // LEARNING ARCHITECTURE
-
-```text
-PHASE 01 ──► PYTHON
-              │
-              ▼
-PHASE 02 ──► MATHEMATICS + STATISTICS
-              │
-              ▼
-PHASE 03 ──► DATA SCIENCE
-              │
-              ▼
-PHASE 04 ──► MACHINE LEARNING
-              │
-              ▼
-PHASE 05 ──► DEEP LEARNING
-              │
-              ▼
-PHASE 06 ──► COMPUTER VISION + NLP
-              │
-              ▼
-PHASE 07 ──► LLMs
-              │
-              ▼
-PHASE 08 ──► AI AGENTS
-              │
-              ▼
-PHASE 09 ──► MLOps
-              │
-              ▼
-PHASE 10 ──► PRODUCTION AI
-```
-
-### Progress
-
-```text
-Python Foundations       ████████████████████  100%
-Mathematics / Statistics  █████████████████░░░   85%
-Data Science              ████████████████░░░░   80%
-Machine Learning          █████████████░░░░░░░   65%
-Deep Learning             █████░░░░░░░░░░░░░░░   25%
-Computer Vision            ██░░░░░░░░░░░░░░░░░░   10%
-NLP                        ██░░░░░░░░░░░░░░░░░░   10%
-LLMs                       █░░░░░░░░░░░░░░░░░░░    5%
-AI Agents                  █░░░░░░░░░░░░░░░░░░░    5%
-MLOps                      ░░░░░░░░░░░░░░░░░░░░    0%
-```
-
-> Progress percentages represent my current learning stage, not professional proficiency.
-
----
-
-# `07` // BUILD PHILOSOPHY
-
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                         ENGINEERING CORE                             ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║   FUNDAMENTALS       >       HYPE                                    ║
-║   BUILD              >       CONSUME                                 ║
-║   UNDERSTAND         >       MEMORIZE                                ║
-║   PROJECTS           >       CERTIFICATES                            ║
-║   DEBUG              >       GIVE UP                                 ║
-║   SHIP               >       PERFECT                                 ║
-║   ITERATE            >       EXCUSES                                 ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-I don't want to become someone who only knows how to call an API.
-
-I want to understand the engineering underneath the system:
-
-**data → mathematics → algorithms → models → systems → products**
-
----
-
-# `08` // LONG-TERM VECTOR
-
-```text
-                 ┌──────────────────────────┐
-                 │      AI / ML ENGINEER     │
-                 └────────────┬─────────────┘
-                              │
-                              ▼
-                 ┌──────────────────────────┐
-                 │    AI SYSTEM BUILDER     │
-                 └────────────┬─────────────┘
-                              │
-                              ▼
-                 ┌──────────────────────────┐
-                 │     PRODUCT BUILDER      │
-                 └────────────┬─────────────┘
-                              │
-                              ▼
-                 ┌──────────────────────────┐
-                 │         FOUNDER          │
-                 └────────────┬─────────────┘
-                              │
-                              ▼
-                 ┌──────────────────────────┐
-                 │    TECHNOLOGY COMPANY    │
-                 └──────────────────────────┘
-```
-
-### Vision
-
-**Build technology that solves real problems.**
-
-The long-term objective is not simply to collect technologies.
-
-It is to develop the technical depth required to build **AI products, intelligent systems and eventually technology companies**.
-
----
-
-# `09` // GITHUB TELEMETRY
+🔭 COMING SOON
 
+Projects will be added as they become properly built and documented.
+
+Planned Areas
+🧠 Machine Learning
+🔥 Deep Learning
+💬 NLP
+🧠 LLM Applications
+🤖 AI Agents
+⚡ Automation
+📊 Data Analysis
+</td> </tr> </table>
+
+
+
+🧪 PROJECT PHILOSOPHY
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Syed-Hassaan-Bukhari&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github" height="180" alt="GitHub Statistics"/>
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│       DON'T BUILD PROJECTS JUST FOR GITHUB.            │
+│                                                         │
+│       BUILD TO UNDERSTAND.                             │
+│       BUILD TO SOLVE.                                  │
+│       BUILD TO IMPROVE.                                │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Hassaan-Bukhari&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="180" alt="Top Languages"/>
 
-</div>
 
-<br>
-
+🎯 CURRENT MISSION
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Syed-Hassaan-Bukhari&hide_border=true&background=0D1117&ring=00F7FF&fire=8B5CF6&currStreakLabel=00F7FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak"/>
-
+          ┌─────────────────────┐
+          │  MASTER FUNDAMENTALS│
+          └──────────┬──────────┘
+                     ↓
+          ┌─────────────────────┐
+          │  BUILD PROJECTS     │
+          └──────────┬──────────┘
+                     ↓
+          ┌─────────────────────┐
+          │  DEVELOP AI SYSTEMS │
+          └──────────┬──────────┘
+                     ↓
+          ┌─────────────────────┐
+          │  DEPLOY              │
+          └──────────┬──────────┘
+                     ↓
+          ┌─────────────────────┐
+          │  SOLVE PROBLEMS     │
+          └──────────┬──────────┘
+                     ↓
+          ┌─────────────────────┐
+          │  BUILD THE FUTURE   │
+          └─────────────────────┘
 </div>
 
----
 
-# `10` // CONTRIBUTION MATRIX
+
+🌐 CONNECT WITH ME
+<div align="center"> <a href="mailto:aiandmldeveloper22@gmail.com"> <img src="https://img.shields.io/badge/Gmail-aiandmldeveloper22%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Syed-Hassaan-Bukhari"> <img src="https://img.shields.io/badge/GitHub-Syed--Hassaan--Bukhari-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://instagram.com/hassaan_bhai.18"> <img src="https://img.shields.io/badge/Instagram-hassaan__bhai.18-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </div>
+
+
 
 <div align="center">
+LEARN • BUILD • DEPLOY • IMPROVE • REPEAT
+<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:24105C,100:00E5FF&height=130&section=footer" /> </div> ```
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syed-Hassaan-Bukhari&bg_color=0D1117&color=FFFFFF&line=00F7FF&point=8B5CF6&area=true&hide_border=true" alt="GitHub Contribution Activity Graph"/>
-
-</div>
-
----
-
-# `11` // CONNECT
-
-<div align="center">
-
-### Let's build something intelligent.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Syed--Hassaan--Bukhari-181717?style=for-the-badge\&logo=github)](https://github.com/Syed-Hassaan-Bukhari)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Hassaan%20Bukhari-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/syed-hassaan-bukhari-0b72b8424/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-@hassaan__bhai.18-E4405F?style=for-the-badge\&logo=instagram)](https://www.instagram.com/hassaan_bhai.18/)
-
-</div>
-
----
-
-<div align="center">
-
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│                    SYSTEM STATUS                           │
-│                                                            │
-│        ● AI / ML CORE       ONLINE                         │
-│        ● PYTHON             ONLINE                         │
-│        ● LEARNING           ACTIVE                         │
-│        ● BUILDING           ACTIVE                         │
-│        ● EXPERIMENTING      ACTIVE                         │
-│        ● FUTURE MODE        INITIALIZED                    │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
-
-### `LEARN • BUILD • DEPLOY • IMPROVE`
-
-<br>
-
-**Built with curiosity. Engineered with discipline.**
-
-</div>
+Bas itna karna hai: GitHub → Syed-Hassaan-Bukhari profile repository → README.md → poora purana content delete → upar wala poora single block paste → Commit.
