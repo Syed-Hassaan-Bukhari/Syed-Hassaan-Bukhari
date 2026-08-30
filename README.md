@@ -178,18 +178,6 @@ AI / MACHINE LEARNING ENGINEERING
 
 ---
 
-# GITHUB ANALYTICS
-
-## CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syed-Hassaan-Bukhari&bg_color=030712&color=67E8F9&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=AI%20%2F%20ML%20CONTRIBUTION%20ACTIVITY" width="100%"/>
-
-</div>
-
----
-
 ## CONTRIBUTION STREAK
 
 <div align="center">
