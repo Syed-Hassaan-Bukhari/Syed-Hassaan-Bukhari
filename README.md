@@ -174,7 +174,6 @@ AI / MACHINE LEARNING ENGINEERING
 [░░░░░░░░░░░░░░░░░░░░] Production AI Systems
 ```
 
----
 
 ## CONTRIBUTION STREAK
 
