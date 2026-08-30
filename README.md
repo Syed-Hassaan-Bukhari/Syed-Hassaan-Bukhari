@@ -74,28 +74,56 @@ I prefer **building over consuming**. Instead of collecting endless courses, I�
 └──────────────────────────────────────────────────────────────┘
 ```
 
-
 # AI / ML STACK
 
 <div align="center">
 
 ### PROGRAMMING
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,r,js&theme=dark"/>
 
 <br><br>
 
 ### DATA & MACHINE LEARNING
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,matplotlib&theme=dark"/>
 
 <br><br>
 
 ### DEEP LEARNING
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,opencv&theme=dark"/>
 
 <br><br>
+
+### NLP & LARGE LANGUAGE MODELS
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<br><br>
+
+### DEVELOPMENT ENVIRONMENT
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,anaconda,docker&theme=dark"/>
+
+<br><br>
+
+### DEPLOYMENT & APIs
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postman&theme=dark"/>
+
+<br><br>
+
+### AI AUTOMATION
+
+<img src="https://img.shields.io/badge/n8n-AI%20AUTOMATION-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+</div>
+
+
+
 
 ### DEVELOPMENT ENVIRONMENT
 
