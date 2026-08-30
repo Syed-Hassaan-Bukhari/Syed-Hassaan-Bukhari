@@ -18,7 +18,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -75,7 +74,6 @@ I prefer **building over consuming**. Instead of collecting endless courses, I�
 └──────────────────────────────────────────────────────────────┘
 ```
 
----
 
 # AI / ML STACK
 
@@ -111,7 +109,7 @@ I prefer **building over consuming**. Instead of collecting endless courses, I�
 
 </div>
 
----
+
 
 # MACHINE LEARNING PIPELINE
 
@@ -155,7 +153,7 @@ I prefer **building over consuming**. Instead of collecting endless courses, I�
 
 </div>
 
----
+
 
 # LEARNING ROADMAP
 
@@ -186,7 +184,6 @@ AI / MACHINE LEARNING ENGINEERING
 
 </div>
 
----
 
 ## GITHUB OVERVIEW
 
@@ -202,7 +199,7 @@ AI / MACHINE LEARNING ENGINEERING
 
 </div>
 
----
+
 
 # REPOSITORY TELEMETRY
 
@@ -297,7 +294,7 @@ Python Jupyter Machine Learning
 </tr> </table>
 
 
----
+
 
 # CONTRIBUTION SNAKE
 
@@ -307,7 +304,7 @@ Python Jupyter Machine Learning
 
 </div>
 
----
+
 
 # BUILD PHILOSOPHY
 
@@ -331,7 +328,7 @@ Python Jupyter Machine Learning
 
 </div>
 
----
+
 
 # LONG-TERM VISION
 
@@ -371,7 +368,7 @@ Python Jupyter Machine Learning
 
 </div>
 
----
+
 
 # CONNECT
 
