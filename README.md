@@ -395,23 +395,8 @@ Python Jupyter Machine Learning
 
 </div>
 
----
 
 <div align="center">
-
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│                    SYSTEM STATUS                           │
-│                                                            │
-│             ● AI/ML CORE       ONLINE                      │
-│             ● PYTHON           ONLINE                      │
-│             ● LEARNING         ACTIVE                      │
-│             ● BUILDING         ACTIVE                      │
-│             ● FUTURE MODE      INITIALIZED                │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
 
 <br>
 
